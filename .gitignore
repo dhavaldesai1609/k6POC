@@ -1,0 +1,12 @@
+# k6 results
+results.json
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
